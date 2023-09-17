@@ -6,6 +6,8 @@
 # Your program should read the input as an integer. 
 # If the integer starts with 0s, don’t enter these zeros in the input.
 
+# Try to use for loop in the future
+
 isbn9 = int(input(f"Enter the first 9 digits of an ISBN as integer:"))
 
 # Translate the number into str to find the position, fill the blank with zero
